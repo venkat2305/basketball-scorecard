@@ -1,8 +1,3 @@
-# TO do
-1.lower the score a little bit
-2.find a better way to add scores
-
-
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
