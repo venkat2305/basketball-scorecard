@@ -1,6 +1,6 @@
 # TO do
-lower the score a little bit
-find a better way to add scores
+1.lower the score a little bit
+2.find a better way to add scores
 
 
 ## About Scrimba
