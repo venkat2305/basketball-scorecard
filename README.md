@@ -1,5 +1,6 @@
 # TO do
 lower the score a little bit
+find a better way to add scores
 
 
 ## About Scrimba
