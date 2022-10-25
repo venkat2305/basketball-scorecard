@@ -11,7 +11,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #ccd5ae;
+    background-color: #2a9d8f;
 
 }
 
@@ -21,6 +21,7 @@ body {
     background-color: #1b244a;
     width: 575px;
     height: 385px;
+    border-radius: 10px;
 }
 
 h3{
